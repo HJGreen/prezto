@@ -51,7 +51,7 @@ path=(
   $HOME/bin
   $HOME/.config/composer/vendor/bin
   $HOME/.local/bin
-  $HOME/.fnm/current/bin
+  $HOME/.fnm
   $path
 )
 
