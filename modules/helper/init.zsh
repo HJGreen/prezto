@@ -49,8 +49,3 @@ function is-bsd {
 function is-cygwin {
   [[ "$OSTYPE" == cygwin* ]]
 }
-
-# is true on termux (Android)
-function is-termux {
-  [[ "$OSTYPE" == linux-android ]]
-}
